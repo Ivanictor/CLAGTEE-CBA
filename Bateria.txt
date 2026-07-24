@@ -1,0 +1,96 @@
+Energia gasta na bateria: 50.70245361328125
+Saída de energia: 44.25173801269683
+Eficiencia: 87.27731077910856
+
+Energia gasta na bateria: 46.09539794921875
+Saída de energia: 40.1031375740065
+Eficiencia: 87.00030666442309
+
+Energia gasta na bateria: 43.0223388671875
+Saída de energia: 37.33740394821295
+Eficiencia: 86.78608585989646
+
+Energia gasta na bateria: 43.0211181640625
+Saída de energia: 37.33740394821295
+Eficiencia: 86.78854837251205
+
+Energia gasta na bateria: 41.4857177734375
+Saída de energia: 35.95453713531618
+Eficiencia: 86.66726542293833
+
+Energia gasta na bateria: 35.341888427734375
+Saída de energia: 30.423069883729074
+Eficiencia: 86.08218529673903
+
+Energia gasta na bateria: 3.073028564453125
+Saída de energia: 1.382866812896776
+Eficiencia: 45.00012882707683
+
+Energia gasta na bateria: -48.539215087890625
+Saída de energia: -55.314672515871045
+Eficiencia: 87.75106654380646
+
+Energia gasta na bateria: -83.3868408203125
+Saída de energia: -94.03494327698078
+Eficiencia: 88.67644081487431
+
+Energia gasta na bateria: -104.54244995117188
+Saída de energia: -117.54367909622596
+Eficiencia: 88.93923582704029
+
+Energia gasta na bateria: -114.50042724609375
+Saída de energia: -128.6066135994002
+Eficiencia: 89.0315233730933
+
+Energia gasta na bateria: -109.5235595703125
+Saída de energia: -123.07514634781307
+Eficiencia: 88.98917679187356
+
+Energia gasta na bateria: -89.6102294921875
+Saída de energia: -100.94927734146465
+Eficiencia: 88.767578978379
+
+Energia gasta na bateria: -70.941650390625
+Saída de energia: -80.206275148013
+Eficiencia: 88.44900259949608
+
+Energia gasta na bateria: -42.317626953125
+Saída de energia: -48.40033845138716
+Eficiencia: 87.43250214175346
+
+Energia gasta na bateria: -12.44647216796875
+Saída de energia: -15.211534941864537
+Eficiencia: 81.82259197074255
+
+Energia gasta na bateria: 33.8035888671875
+Saída de energia: 29.040203070832295
+Eficiencia: 85.90863882805375
+
+Energia gasta na bateria: 64.53790283203125
+Saída de energia: 56.69753932876781
+Eficiencia: 87.8515366021901
+
+Energia gasta na bateria: 76.82373046875
+Saída de energia: 67.76047383194202
+Eficiencia: 88.2025298934231
+
+Energia gasta na bateria: 78.3626708984375
+Saída de energia: 69.1433406448388
+Eficiencia: 88.23504846389491
+
+Energia gasta na bateria: 76.831298828125
+Saída de energia: 67.76047383194202
+Eficiencia: 88.19384139727376
+
+Energia gasta na bateria: 72.21722412109375
+Saída de energia: 63.6118733932517
+Eficiencia: 88.08407435681464
+
+Energia gasta na bateria: 64.53289794921875
+Saída de energia: 56.69753932876781
+Eficiencia: 87.85834997427727
+
+Energia gasta na bateria: -18.6689453125
+Saída de energia: -22.125869006348417
+Eficiencia: 84.37609979135036
+
